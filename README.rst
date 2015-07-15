@@ -35,9 +35,9 @@ For installation please read the `installation <http://preview.docs.plone.org/vi
 Contribute
 ----------
 
-- `Issue Tracker: <https://github.com/svx/plone.virtualbox.appliance/issues>`_
-- `Source Code: <https://github.com/svx/plone.virtualbox.appliance/>`_
-- `Documentation: <preview.docs.plone.org/virtualbox>`_
+- `Issue Tracker <https://github.com/svx/plone.virtualbox.appliance/issues>`_
+- `Source Code <https://github.com/svx/plone.virtualbox.appliance/>`_
+- `Documentation <preview.docs.plone.org/virtualbox>`_
 
 Support
 -------
