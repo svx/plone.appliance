@@ -16,6 +16,6 @@ Contents:
    :maxdepth: 2
 
    virtualbox/index
-  
+   contributing 
 
 

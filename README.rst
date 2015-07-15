@@ -24,6 +24,8 @@ Documentation
 Full documentation for end users can be found in the "docs" folder.
 It is also available online at http://preview.docs.plone.org/virtualbox
 
+For contributing to the documentation, please the `about <http://preview.docs.plone.org/preview/virtualbox/contributing>`_.
+
 Installation
 ------------
 
@@ -34,7 +36,7 @@ Contribute
 ----------
 
 - `Issue Tracker: <https://github.com/svx/plone.virtualbox.appliance/issues>`_
-- `Source Code: <https://github.com/svx/plone.virtualbox.appliance/issues>`_
+- `Source Code: <https://github.com/svx/plone.virtualbox.appliance/>`_
 - `Documentation: <preview.docs.plone.org/virtualbox>`_
 
 Support
