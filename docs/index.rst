@@ -13,7 +13,12 @@ Plone VirtualBox Appliance
 
 .. todo:: Add specific versions where we tested on, like Ubuntu 14.04, Windows 8 ?
 
+.. toctree::
+   :hidden:
 
+   setup/index
+   specs
+   contributing
 
 Introduction
 ============
@@ -27,12 +32,7 @@ Do note that this is **not** meant for production environments.
 
 The only application you need is `Virtualbox <https://www.virtualbox.org>`_.
 
-Preparation
-===========
 
-Please make sure that you have `Virtualbox <https://www.virtualbox.org>`_ installed.
-
-.. todo:: Add here links to sub install for different OS's
 
 Downloading Appliance
 =====================

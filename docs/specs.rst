@@ -89,11 +89,11 @@ Login via command-line to the appliance on the default NAT:
 .. todo:: screen from virtualbox prompt
 
 
-.. warning:: Please do **not** use this appliance in production, is is not build for this!
-
 Plone
 -----
-version: 5.0b2
++---------+---------+
+| version | 5.0b2   |
++---------+---------+
 
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!
