@@ -15,13 +15,13 @@ Specifications
 Appliance Specifications
 ========================
 
-+-----------------------+--------------------------------+
-| CPU                   | 1                              |
-+-----------------------+--------------------------------+
-| RAM                   | 1024MB                         |
-+-----------------------+--------------------------------+
-| Operating System      | Ubuntu 14.04.2 - 386 Trusty LTS|
-+-----------------------+--------------------------------+
++-----------------------+---------------------------------+
+| CPU                   | 1                               |
++-----------------------+---------------------------------+
+| RAM                   | 1024MB                          |
++-----------------------+---------------------------------+
+| Operating System      | Ubuntu 14.04.2 - 386 Trusty LTS |
++-----------------------+---------------------------------+
 
 
 Network
@@ -29,24 +29,26 @@ Network
 
 Out of the box, the network in configured for NAT
 
-
 +-----------------+---------------+
 | Networking Mode | NAT           |
 +-----------------+---------------+
 | IP              | 10.0.3.15     |
 +-----------------+---------------+
 
-{HERE EXPLAIN WHY, reasons, security, bla}
+For preventing possible interference with your network, the appliance is using NAT as default configured network mode.
 
-However, dhcp is pre-configured on appliance, if for some reason you want to use dhcp [please ask you it-department fist], you can easily change that in the
-netwok settings.
+This means the appliance is only reachable from the host machine, meaning the machine where you using VirtualBox on.  
+
+However, dhcp is pre-configured on the appliance, if for some reason, you want to use dhcp, you can easily change that in the network settings.
+
+.. warning:: Before you do that, please consult your IT-department first !
+
 {here the manual}
 
 - open virtualbox -> settings -> change to dhcp -> start vm again.
 
 The appliance is build in the way,that you can now browse to the $IPOFTHEVM and see your plone setup.
 
-The default network setup is nat, the default IP is 10.0.3.15.
 
 {here pic of network in virtualbox gui}
 
