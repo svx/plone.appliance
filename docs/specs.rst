@@ -20,7 +20,7 @@ Appliance Specifications
 +-----------------------+--------------------------------+
 | RAM                   | 1024MB                         |
 +-----------------------+--------------------------------+
-| Operating System      | Ubuntu 14.04.2 -i386 Trusty LTS|
+| Operating System      | Ubuntu 14.04.2 - 386 Trusty LTS|
 +-----------------------+--------------------------------+
 
 
@@ -69,10 +69,14 @@ Port 2222 of your Host OS forwarded to port 22 of the appliance.
 
 User
 ----
++------------+-----------------+
+| username   | plone_user      |
++------------+-----------------+
+| password   | 123456plonedemo |
++------------+-----------------+
+| sudo       | yes             |
++------------+-----------------+
 
-Username: plone_user
-sudo: yes
-password: 123456plonedemo
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!
 
