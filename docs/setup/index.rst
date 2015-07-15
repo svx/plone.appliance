@@ -2,11 +2,6 @@
 Setup
 ======
 
-About the setup
-
-Preparation
------------
-
 Please make sure that you have `Virtualbox <https://www.virtualbox.org>`_ installed.
 
 
