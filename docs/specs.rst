@@ -27,13 +27,19 @@ Appliance Specifications
 Network
 -------
 
-The default network setup is nat, the default IP is {HEREIP}.
+The default network setup is nat, the default IP is 10.0.3.15.
 
 {here pic of network in virtualbox gui}
 
 Ports
 ~~~~~~
-Port: {Host}:{Client}
+
++-----------+--------------+
+| Host      | Appliance    |
++-----------+--------------+
+| 8080      | 8080         |
++-----------+--------------+  
+
 Port 8080 of your Host is forwarded to port 8080 of the appliance.
 
 Port 2222 of your Host OS forwarded to port 22 of the appliance.
@@ -60,11 +66,7 @@ password: 123456plonedemo
 Plone
 -----
 version: 5.0a2
-user: admin
-password: plone
+
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!
 
-- more ?
-
-- feedback/suggestions ?
