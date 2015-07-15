@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'mr.builder'
+project = u'Plone Appliance'
 copyright = u'2015, sven'
 author = u'sven'
 
