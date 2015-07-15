@@ -54,13 +54,6 @@ After that is done, please start VirtualBox on your machine. If all went well yo
    :height: 392px
    :align: center
 
-- Lets import the image, click on **File** -> **Import Appliance**
-- Click **Open appliance** and navigate to the already downloaded and unzipped image
-- Click **open** again
-- Click **Next**
-- Click **Import**
-- Wait till import is done
-
 
 Starting
 ========
