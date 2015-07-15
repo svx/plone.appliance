@@ -26,12 +26,11 @@ Introduction
 To make it easier for anyone to review or evaluate `Plone <https://plone.com>`_, we provide this **VirtualBox Plone Appliance**.
 
 It is a self-contained appliance that will run independent from your current operating system.
-So you don't have to go to separate install steps. 
+So you don't have to go to separate install steps.
 
 .. note:: This appliance is **not** meant for production environments.
 
 The only application you need is `Virtualbox <https://www.virtualbox.org>`_.
-
 
 
 Downloading Appliance
@@ -42,18 +41,13 @@ Browse to `dist.plone.org/vm <http://dist.tiramisu.solutions/virtualbox/>`_ and 
 Importing Appliance
 ===================
 
-After the download is finished you can import it into VirtualBox. 
+Please click on the link according to your Operating System
 
+:doc:`Importing into Virtualbox on Ubuntu <setup/ubuntu>`
 
-After that is done, please start VirtualBox on your machine. If all went well you will see something what will look similar like the picture.
+:doc:`Importing into Virtualbox on Mac OS X <setup/osx>`
 
-.. note:: Depending if you use Windows, Mac or Linux it is possible that it will look slightly different.
-
-.. thumbnail:: _static/virtualbox_start_screen.png
-   :width: 697px
-   :height: 392px
-   :align: center
-
+:doc:`Importing into Virtualbox on Windows <setup/windows>` 
 
 Starting
 ========
@@ -71,7 +65,7 @@ Plone
 
 Open your browser and enter: http://localhost:8080/Plone
 
-If you want to login to http://localhost:8080/Plone/login please use this credentials: 
+If you want to login to http://localhost:8080/Plone/login please use this credentials:
 
 +----------+-------+
 | username | admin |
