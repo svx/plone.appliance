@@ -1,15 +1,11 @@
 ==============
-Specifications 
+Specifications
 ==============
 .. admonition:: Description
 
         Overview about the technical specifications of this VirtualBox Appliance.
 
 .. contents:: :local:
-
-
-.. toctree::
-   :maxdepth: 2
 
 
 Appliance Specifications
@@ -37,7 +33,7 @@ Out of the box, the network in configured for NAT
 
 For preventing possible interference with your network, the appliance is using NAT as default configured network mode.
 
-This means the appliance is only reachable from the host machine, meaning the machine where you using VirtualBox on.  
+This means the appliance is only reachable from the host machine, meaning the machine where you using VirtualBox on.
 
 However, dhcp is pre-configured on the appliance, if for some reason, you want to use dhcp, you can easily change that in the network settings.
 
@@ -59,11 +55,11 @@ Ports
 | Host      | Appliance    |
 +-----------+--------------+
 | 8080      | 8080         |
-+-----------+--------------+  
++-----------+--------------+
 
 Port 8080 of your Host is forwarded to port 8080 of the appliance.
 
-Port 2222 of your Host OS forwarded to port 22 of the appliance.
+
 
 {HERE PIC of network forwards}
 
@@ -71,6 +67,9 @@ Port 2222 of your Host OS forwarded to port 22 of the appliance.
 
 User
 ----
+
+The user under which the setup is done on, you can also use these credentials to login via the command-line or via the command-line login prompt from VirtualBox.
+
 +------------+-----------------+
 | username   | plone_user      |
 +------------+-----------------+
@@ -79,12 +78,22 @@ User
 | sudo       | yes             |
 +------------+-----------------+
 
+Examples:
+
+Login via command-line to the appliance on the default NAT:
+
+.. code-block:: bash
+
+	$ ssh plone_user@10.0.3.15
+
+.. todo:: screen from virtualbox prompt
+
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!
 
 Plone
 -----
-version: 5.0a2
+version: 5.0b2
 
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!
