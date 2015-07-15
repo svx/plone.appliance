@@ -1,9 +1,9 @@
-=====
-Setup
-=====
+==============
+Specifications 
+==============
 .. admonition:: Description
 
-        Overview about the setup of this VirtualBox Appliance.
+        Overview about the technical specifications of this VirtualBox Appliance.
 
 .. contents:: :local:
 
@@ -12,11 +12,19 @@ Setup
    :maxdepth: 2
 
 
-Appliance Setup
-===============
+Appliance Specifications
+========================
 
-Specs
------
++-----------------------+--------------------------------+
+| CPU                   | 1                              |
++-----------------------+--------------------------------+
+| RAM                   | 1024MB                         |
++-----------------------+--------------------------------+
+| Operating System      | Ubuntu 14.04.2 -i386 Trusty LTS|
++-----------------------+--------------------------------+
+
+
+
 CPU: 1
 
 RAM: 1024MB

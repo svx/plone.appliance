@@ -16,9 +16,9 @@ Plone VirtualBox Appliance
 
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly: 
 
-   setup
+   specs
    contributing
 
 
