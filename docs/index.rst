@@ -28,7 +28,7 @@ To make it easier for anyone to review or evaluate `Plone <https://plone.com>`_,
 It is a self-contained appliance that will run independent from your current operating system.
 So you don't have to go to separate install steps. 
 
-Do note that this is **not** meant for production environments.
+.. note:: This appliance is **not** meant for production environments.
 
 The only application you need is `Virtualbox <https://www.virtualbox.org>`_.
 
