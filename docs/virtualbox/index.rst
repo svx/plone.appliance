@@ -125,7 +125,7 @@ All about Starting
 Plone
 =====
 
-Open your browser and enter: https://localhost:8080/Plone
+Open your browser and enter: http://localhost:8080/Plone
 
 
 
