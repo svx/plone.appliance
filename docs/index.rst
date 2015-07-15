@@ -42,8 +42,8 @@ Browse to `dist.plone.org/vm <http://dist.tiramisu.solutions/virtualbox/>`_ and 
 Importing Appliance
 ===================
 
-After the download is finished you can import it into VirtualBox. In order to do that, first you have to *unzip* the file you just downloaded.
-Go into your download folder [or to the folder where you saved the file], *right* click with the mouse on it and choose *unzio*.
+After the download is finished you can import it into VirtualBox. 
+
 
 After that is done, please start VirtualBox on your machine. If all went well you will see something what will look similar like the picture.
 

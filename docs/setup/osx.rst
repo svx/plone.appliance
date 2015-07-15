@@ -1,9 +1,6 @@
 ===========
-Apple OS X
+Max OS X
 ===========
-
-Mac OS X
----------
 
 If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for OS X hosts.
 
