@@ -47,6 +47,7 @@ help:
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
+	@echo "	 preview    upload docs to preview.docs.plone.org/virtualbox"
 
 clean:
 	rm -rf $(BUILDDIR)/*
@@ -190,3 +191,6 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+preview:
+	rsync --numeric-ids -avz --delete $(BUILDDIR)/html/ docs@docs.plone.org:/var/www/preview.docs.plone.org/virtualbox
