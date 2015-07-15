@@ -22,38 +22,25 @@ Documentation
 -------------
 
 Full documentation for end users can be found in the "docs" folder.
-
-test
-
+It is also available online at http://preview.docs.plone.org/virtualbox
 
 Installation
 ------------
 
-Install collective.fancystuff by adding it to your buildout:
-
-   [buildout]
-
-    ...
-
-    eggs =
-        collective.fancystuff
-
-
-and then running "bin/buildout"
-
+For installation please read the `installation <http://preview.docs.plone.org/virtualbox/>`_ docs.
 
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/collective/collective.fancystuff/issues
-- Source Code: github.com/collective/collective.fancystuff
-- Documentation: docs.plone.org/foo/bar
+- `Issue Tracker: <https://github.com/svx/plone.virtualbox.appliance/issues>`_
+- `Source Code: <https://github.com/svx/plone.virtualbox.appliance/issues>`_
+- `Documentation: <preview.docs.plone.org/virtualbox>`_
 
 Support
 -------
 
-If you are having issues, please let us know.
+If you are having issues, please let us know ! The easiest way to do that is to open a `new issue <https://github.com/svx/plone.virtualbox.appliance/issues/new>`_.
 
 License
 -------
