@@ -16,7 +16,7 @@ Plone VirtualBox Appliance
 
 
 .. toctree::
-   :titlesonly: 
+   :maxdepth: 1 
 
    specs
    contributing
@@ -95,7 +95,7 @@ Importing Appliance
 ===================
 
 After the download is finished you can import it into VirtualBox. In order to do that, first you have to *unzip* the file you just downloaded.
-Go into your download folder [or to the folder where you saved the file], *right* click with the moouse on it and choose *unzio*.
+Go into your download folder [or to the folder where you saved the file], *right* click with the mouse on it and choose *unzio*.
 
 After that is done, please start VirtualBox on your machine. If all went well you will see something what will look similar like the picture.
 
@@ -130,5 +130,12 @@ Plone
 
 Open your browser and enter: http://localhost:8080/Plone
 
+If you want to login to http://localhost:8080/Plone/login please use this credentials: 
+
++----------+-------+
+| username | admin |
++----------+-------+
+| password | plone |
++----------+-------+
 
 
