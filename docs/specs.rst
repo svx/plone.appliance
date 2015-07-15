@@ -24,16 +24,6 @@ Appliance Specifications
 +-----------------------+--------------------------------+
 
 
-
-CPU: 1
-
-RAM: 1024MB
-
-Operating System
-----------------
-
-Ubuntu 14.04.2 -i386 [32] - Trusty T LTS
-
 Network
 -------
 
