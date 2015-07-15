@@ -27,6 +27,25 @@ Appliance Specifications
 Network
 -------
 
+Out of the box, the network in configured for NAT
+
+
++-----------------+---------------+
+| Networking Mode | NAT           |
++-----------------+---------------+
+| IP              | 10.0.3.15     |
++-----------------+---------------+
+
+{HERE EXPLAIN WHY, reasons, security, bla}
+
+However, dhcp is pre-configured on appliance, if for some reason you want to use dhcp [please ask you it-department fist], you can easily change that in the
+netwok settings.
+{here the manual}
+
+- open virtualbox -> settings -> change to dhcp -> start vm again.
+
+The appliance is build in the way,that you can now browse to the $IPOFTHEVM and see your plone setup.
+
 The default network setup is nat, the default IP is 10.0.3.15.
 
 {here pic of network in virtualbox gui}
@@ -46,13 +65,7 @@ Port 2222 of your Host OS forwarded to port 22 of the appliance.
 
 {HERE PIC of network forwards}
 
-However, dhcp is pre-configured on appliance, if for some reason you want to use dhcp [please ask you it-department fist], you can easily change that in the
-netwok settings.
-{here the manual}
 
-- open virtualbox -> settings -> change to dhcp -> start vm again.
-
-The appliance is build in the way,that you can now browse to the $IPOFTHEVM and see your plone setup.
 
 User
 ----
