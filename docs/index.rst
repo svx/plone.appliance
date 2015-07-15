@@ -14,14 +14,6 @@ Plone VirtualBox Appliance
 .. todo:: Add specific versions where we tested on, like Ubuntu 14.04, Windows 8 ?
 
 
-
-.. toctree::
-   :maxdepth: 1 
-
-   specs
-   contributing
-
-
 Introduction
 ============
 
@@ -39,52 +31,7 @@ Preparation
 
 Please make sure that you have `Virtualbox <https://www.virtualbox.org>`_ installed.
 
-Mac OS X
----------
-
-If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for OS X hosts.
-
-.. thumbnail:: _static/vbox_show_osx.png
-   :width: 697px
-   :height: 392px
-   :align: center
-
-
-Click on the underlined link to download it. After the download is finished open the downloaded file. Now follow the steps to install VirtualBox to your machine.
-
-.. todo:: more pictues about installation
-
-Windows
--------
-
-If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for Windows hosts.
-
-Once downloaded, double-click on the installer which will guide you through the installation. Depending on your version of Windows, you will be asked for permission to install non-Windows signed drivers, which are needed to complete the installation. 
-
-Ubuntu
-------
-
-If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please open the software center, in Unity, Ubuntu Software Center should be a default item in the launcher.
-
-Alternatively, search for “software” in the Dash search field. 
-
-Now search in the right top corner for *virtualbox*.
-
-.. thumbnail:: _static/ubuntu_software_center.png
-   :width: 697px
-   :height: 392px
-   :align: center
-
-
-
-.. todo:: more and 'fresh' pics about installation
-
-and install it, if you wish to install it via command-line please do:
-
-.. code-block:: bash
-
-    $ sudo apt-get install virtualbox
-
+.. todo:: Add here links to sub install for different OS's
 
 Downloading Appliance
 =====================
