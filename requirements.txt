@@ -1,0 +1,3 @@
+sphinx
+sphinxcontrib-images
+sphinxcontrib.gist
