@@ -67,6 +67,12 @@ For preventing possible interference with your network, the appliance is using N
 
 This means the appliance is only reachable from the host machine, meaning the machine where you using VirtualBox on.
 
+.. thumbnail:: _static/virtualbox_nat.png
+   :width: 697px
+   :height: 392px
+   :align: center
+
+
 However, dhcp is pre-configured on the appliance, if for some reason, you want to use dhcp, you can easily change that in the network settings.
 
 .. warning:: Before you do that, please consult your IT-department first !
@@ -78,7 +84,10 @@ However, dhcp is pre-configured on the appliance, if for some reason, you want t
 The appliance is build in the way,that you can now browse to the $IPOFTHEVM and see your plone setup.
 
 
-{here pic of network in virtualbox gui}
+.. thumbnail:: _static/virtualbox_dhcp.png
+   :width: 697px
+   :height: 392px
+   :align: center
 
 Ports
 ~~~~~~
@@ -92,8 +101,11 @@ Ports
 Port 8080 of your Host is forwarded to port 8080 of the appliance.
 
 
+.. thumbnail:: _static/virtualbox_port_fw.png
+   :width: 697px
+   :height: 392px
+   :align: center
 
-{HERE PIC of network forwards}
 
 
 
