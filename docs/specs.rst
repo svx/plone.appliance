@@ -7,6 +7,34 @@ Specifications
 
 .. contents:: :local:
 
+Supported Operating Systems
+===========================
+
+This Appliance is tested on following Operating Systems:
+
++---------------+----------------------+
+| Ubuntu        | 14.04, 15.04         |
++---------------+----------------------+
+| Mac OS X      | Yosemite             |
++---------------+----------------------+
+| Windows       | 8                    |
++---------------+----------------------+
+| Debian        | 8                    |
++---------------+----------------------+
+| Arch Linux    | 2015.07.01           |
++---------------+----------------------+
+
+
+Supported VirtualBox Versions
+==============================
+
+This Appliance is tested with:
+
++-----------+
+| 4.3.30    |
++-----------+
+| 5.0       |
++-----------+
 
 Appliance Specifications
 ========================

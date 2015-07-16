@@ -2,7 +2,6 @@
 Ubuntu
 =======
 
-
 If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please open the software center, in Unity, Ubuntu Software Center should be a default item in the launcher.
 
 Alternatively, search for “software” in the Dash search field. 
