@@ -32,13 +32,13 @@ So you don't have to go to separate install steps.
 The only application you need is `Virtualbox <https://www.virtualbox.org>`_.
 
 
-Downloading Appliance
-=====================
+Downloading the Appliance
+=========================
 
 Browse to `dist.plone.org/vm <http://dist.tiramisu.solutions/virtualbox/>`_ and click on plone5.0-ubuntu-appliance to download it.
 
-Importing Appliance
-===================
+Importing the Appliance
+=======================
 
 Please click on the link according to your Operating System
 
@@ -50,8 +50,8 @@ Please click on the link according to your Operating System
 
 .. _starting-reference-label:
 
-Starting Appliance
-==================
+Starting the Appliance
+======================
 
 Choose the Appliance, click on start and hopefully the fresh imported image will boot.
 

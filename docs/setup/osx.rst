@@ -28,4 +28,4 @@ Click **Continue**
 
 Click **Import**
 
-Wait till import is done
+Wait till import is done and continue with :ref:`starting-reference-label`.
