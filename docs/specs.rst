@@ -7,6 +7,8 @@ Specifications
 
 .. contents:: :local:
 
+.. _os-reference-label:
+
 Supported Operating Systems
 ===========================
 

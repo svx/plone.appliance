@@ -9,9 +9,8 @@ Plone VirtualBox Appliance
         If you have `VirtualBox <https://www.virtualbox.org>`_ already installed, you just can download, import
         and start the appliance.
 
-        This is tested with Ubuntu, Mac OS and Windows
+        :ref:`os-reference-label`
 
-.. todo:: Add specific versions where we tested on, like Ubuntu 14.04, Windows 8 ?
 
 .. toctree::
    :hidden:
