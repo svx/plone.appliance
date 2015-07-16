@@ -77,9 +77,8 @@ However, dhcp is pre-configured on the appliance, if for some reason, you want t
 
 .. warning:: Before you do that, please consult your IT-department first !
 
-{here the manual}
 
-- open virtualbox -> settings -> change to dhcp -> start vm again.
+Open virtualbox -> settings -> change to dhcp -> start vm again.
 
 The appliance is build in the way,that you can now browse to the $IPOFTHEVM and see your plone setup.
 
