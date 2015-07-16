@@ -48,16 +48,22 @@ Please click on the link according to your Operating System
 
 :doc:`Importing into Virtualbox on Windows <setup/windows>` 
 
-Starting
-========
+.. _starting-reference-label:
 
- - choose the appliance image, click on start and hopefully the fresh imported image will boot.
+Starting Appliance
+==================
 
-All about Starting
+Choose the Appliance, click on start and hopefully the fresh imported image will boot.
 
-.. todo:: here screens
+.. thumbnail:: _static/starting_appliance_vbox.png
+   :width: 697px
+   :height: 392px
+   :align: center
 
-- Wait till you see a login screen, that means the Appliance is booted and ready.
+.. note:: The name of the Appliance may differ, depending on the version
+
+
+Wait till you see a login screen, that means the Appliance is booted and ready.
 
 Plone
 =====
