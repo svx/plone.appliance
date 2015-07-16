@@ -118,15 +118,22 @@ Login via command-line to the appliance on the default NAT:
 
 	$ ssh plone_user@10.0.3.15
 
-.. todo:: screen from virtualbox prompt
+Login via the VirtualBox server/command-line prompt:
+
+.. thumbnail:: _static/vbox_login_cmd.png
+   :width: 697px
+   :height: 392px
+   :align: center
+
 
 
 Plone
 -----
-+---------+---------+
-| version | 5.0b2   |
-+---------+---------+
-
++--------------+-----------------------------------+
+| Version      | 5.0b2                             |
++--------------+-----------------------------------+
+| Install path | /home/plone_user/Plone/zinstance  |
++--------------+-----------------------------------+
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!
 
