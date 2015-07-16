@@ -23,7 +23,7 @@ This Appliance is tested on following Operating Systems:
 +---------------+----------------------+
 | Debian        | 8                    |
 +---------------+----------------------+
-| Arch Linux    | 2015.07.01           |
+| Arch Linux    | build: 2015.07.01    |
 +---------------+----------------------+
 
 
@@ -32,6 +32,8 @@ Supported VirtualBox Versions
 
 This Appliance is tested with:
 
++-----------+
+| 4.3.28    |
 +-----------+
 | 4.3.30    |
 +-----------+

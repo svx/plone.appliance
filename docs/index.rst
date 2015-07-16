@@ -70,7 +70,7 @@ Plone
 
 Open your browser and enter: http://localhost:8080/Plone
 
-If you want to login to http://localhost:8080/Plone/login please use this credentials:
+If you want to login to http://localhost:8080/Plone/login please use these credentials:
 
 +----------+-------+
 | username | admin |
