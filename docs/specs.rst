@@ -43,6 +43,8 @@ This Appliance is tested with:
 Appliance Specifications
 ========================
 
+*Beta 2*
+
 +-----------------------+---------------------------------+
 | CPU                   | 1                               |
 +-----------------------+---------------------------------+
@@ -51,17 +53,37 @@ Appliance Specifications
 | Operating System      | Ubuntu 14.04.2 - 386 Trusty LTS |
 +-----------------------+---------------------------------+
 
+*Beta 3*
+
++-----------------------+---------------------------------+
+| CPU                   | 1                               |
++-----------------------+---------------------------------+
+| RAM                   | 1024MB                          |
++-----------------------+---------------------------------+
+| Operating System      | Debian 8.1                      |
++-----------------------+---------------------------------+
 
 Network
 -------
 
 Out of the box, the network in configured for NAT
 
+*Beta 2*
+
 +-----------------+---------------+
 | Networking Mode | NAT           |
 +-----------------+---------------+
 | IP              | 10.0.3.15     |
 +-----------------+---------------+
+
+*Beta 3*
+
++-----------------+---------------+
+| Networking Mode | NAT           |
++-----------------+---------------+
+| IP              | 10.0.2.15     |
++-----------------+---------------+
+
 
 For preventing possible interference with your network, the appliance is using NAT as default configured network mode.
 
@@ -96,9 +118,13 @@ Ports
 +-----------+--------------+
 | 8080      | 8080         |
 +-----------+--------------+
+| 2222      | 22           |
++-----------+--------------+
+
 
 Port 8080 of your Host is forwarded to port 8080 of the appliance.
 
+Port 2222 of your Host is forwarded to port 22 of the appliance
 
 .. thumbnail:: _static/virtualbox_port_fw.png
    :width: 697px
@@ -113,6 +139,8 @@ User
 
 The user under which the setup is done on, you can also use these credentials to login via the command-line or via the command-line login prompt from VirtualBox.
 
+*Beta 2*
+
 +------------+-----------------+
 | username   | plone_user      |
 +------------+-----------------+
@@ -120,6 +148,19 @@ The user under which the setup is done on, you can also use these credentials to
 +------------+-----------------+
 | sudo       | yes             |
 +------------+-----------------+
+
+*Beta 3*
+
++------------+-----------------+
+| username   | ploneuser       |
++------------+-----------------+
+| password   | plonedemo       |
++------------+-----------------+
+| sudo       | no              |
++------------+-----------------+
+| root       | PloneRoot       |
++------------+-----------------+
+
 
 Examples:
 
@@ -140,10 +181,21 @@ Login via the VirtualBox server/command-line prompt:
 
 Plone
 -----
+
+*Beta 2*
+
 +--------------+-----------------------------------+
 | Version      | 5.0b2                             |
 +--------------+-----------------------------------+
 | Install path | /home/plone_user/Plone/zinstance  |
++--------------+-----------------------------------+
+
+*Beta 3*
+
++--------------+-----------------------------------+
+| Version      | 5.0b3                             |
++--------------+-----------------------------------+
+| Install path | /home/ploneuser/Plone/zinstance   |
 +--------------+-----------------------------------+
 
 .. warning:: Please do **not** use this appliance in production, is is not build for this!

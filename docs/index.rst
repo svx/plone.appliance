@@ -35,7 +35,13 @@ The only application you need is `Virtualbox <https://www.virtualbox.org>`_.
 Downloading the Appliance
 =========================
 
+*Beta2*
+
 Browse to `dist.plone.org/vm <http://dist.tiramisu.solutions/virtualbox/>`_ and click on plone5.0-ubuntu-appliance to download it.
+
+*Beta 3*
+
+Browse to `dist.plone.org/vm <http://dist.tiramisu.solutions/virtualbox/>`_ and click on plone5b3_build250715.ova to download it.
 
 Importing the Appliance
 =======================
@@ -72,10 +78,17 @@ Open your browser and enter: http://localhost:8080/Plone
 
 If you want to login to http://localhost:8080/Plone/login please use these credentials:
 
+*Beta 2*
+
 +----------+-------+
 | username | admin |
 +----------+-------+
 | password | plone |
 +----------+-------+
 
-
+*Beta 3*
++----------+-------+
+| username | admin |
++----------+-------+
+| password | admin |
++----------+-------+
