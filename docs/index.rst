@@ -87,6 +87,7 @@ If you want to login to http://localhost:8080/Plone/login please use these crede
 +----------+-------+
 
 *Beta 3*
+
 +----------+-------+
 | username | admin |
 +----------+-------+
