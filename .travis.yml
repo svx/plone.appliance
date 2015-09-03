@@ -1,0 +1,11 @@
+language: python
+python:
+  - "2.7"
+# command to install dependencies
+install: "pip install -q -r requirements.txt --use-mirrors"
+
+
+
+# test it
+script: make linkcheck -C docs
+script: make html -C docs
