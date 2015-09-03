@@ -52,8 +52,6 @@ Building
 Browsing
 --------
 
-Test this https://gitth.com
-
 Point your browser to file:///$YOURPATH/plone.appliance/docs/_build/html/index.html#
 
 .. note:: Replace *YOURPATH* with your local path, for example */home/jandoe/*
