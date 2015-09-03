@@ -9,7 +9,7 @@ plone.virtualbox.appliance is an easy way to evaluate `Plone <https://plone.org>
 
 `VirtualBox <https://www.virtualbox.org>`_ is the only needed dependency.
 
-** This appliance is not suited for production use**
+**This appliance is not suited for production use**
 
 For Plone in production please refer to the `official <http://docs.plone.org>`_ documentation.
 
