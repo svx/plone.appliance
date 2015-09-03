@@ -1,12 +1,15 @@
-Plone VirtualBox Appliance
-===========================
+Plone VirtualBox Appliance Documentation
+========================================
+
+.. image:: https://travis-ci.org/svx/plone.virtualbox.appliance.svg
+    :target: https://travis-ci.org/svx/plone.virtualbox.appliance
 
 plone.virtualbox.appliance is an easy way to evaluate `Plone <https://plone.org>`_.
 
 
-`VirtualBox <https://www.virtualbox.org>`_ is the only needed dependency. 
+`VirtualBox <https://www.virtualbox.org>`_ is the only needed dependency.
 
-** This appliance is not suited for production use** 
+** This appliance is not suited for production use**
 
 For Plone in production please refer to the `official <http://docs.plone.org>`_ documentation.
 
@@ -16,7 +19,7 @@ Features
 - easy evaluation of Plone
 - little dependencies
 - works on Linux, OSX, Windows and more
-  
+
 
 Documentation
 -------------
