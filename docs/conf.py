@@ -35,6 +35,11 @@ extensions = [
     'sphinxcontrib.images'
 ]
 
+
+ # Options for the linkcheck builder
+ # Ignore localhost
+linkcheck_ignore = [r'http://localhost:\d+/']
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
