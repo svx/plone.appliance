@@ -18,6 +18,7 @@ Plone VirtualBox Appliance
    setup/index
    specs
    contributing
+   glossary
 
 Introduction
 ============
