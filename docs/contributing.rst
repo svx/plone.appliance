@@ -5,7 +5,7 @@ Contributing
 .. admonition:: Contriburing to the documentation
 
 	Please feel free help improving this documentation, you can contribute in different ways, like open
-	`tickets <https://github.com/svx/plone.virtualbox.appliance/issues/new>`_ or sending pull requests.
+	`tickets <https://github.com/svx/plone.virtualbox.appliance/issues/>`_ or sending pull requests.
 
 If you want to build the documentation locally, please see below.
 
