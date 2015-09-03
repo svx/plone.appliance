@@ -1,3 +1,6 @@
+# image
+build_image: shippableimages/ubuntu1404_python
+
 # language setting
 language: python
 
