@@ -1,3 +1,4 @@
 sphinx
 sphinxcontrib-images
 sphinxcontrib.gist
+rstcheck
