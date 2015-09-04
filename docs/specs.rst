@@ -14,7 +14,7 @@ Supported Operating Systems
 
 :term: 'test'
 
-and there we go :term:`test` bla bla bla
+and there we go :term:`Plone` bla bla bla
 
 This Appliance is tested on following Operating Systems:
 
