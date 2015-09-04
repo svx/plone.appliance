@@ -1,4 +1,5 @@
 Plone
+plone
 virtualenv
 username
 admin
@@ -12,6 +13,5 @@ sudo
 zinstance
 contributing
 virtualization
-plone
 bla
 html
