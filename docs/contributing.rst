@@ -16,6 +16,7 @@ Make sure to have the following dependencies installed:
 
 - python2.7
 - virtualenv
+- enchant
 
 Install
 -------

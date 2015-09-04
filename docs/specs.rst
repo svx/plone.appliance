@@ -12,7 +12,11 @@ Specifications
 Supported Operating Systems
 ===========================
 
-:term: 'test'
+.. sidebar:: Get the code!
+
+   Quick Install
+
+
 
 and there we go :term:`Plone` bla bla bla
 
@@ -47,18 +51,6 @@ This Appliance is tested with:
 Appliance Specifications
 ========================
 
-*Beta 2*
-
-+-----------------------+---------------------------------+
-| CPU                   | 1                               |
-+-----------------------+---------------------------------+
-| RAM                   | 1024MB                          |
-+-----------------------+---------------------------------+
-| Operating System      | Ubuntu 14.04.2 - 386 Trusty LTS |
-+-----------------------+---------------------------------+
-
-*Beta 3*
-
 +-----------------------+---------------------------------+
 | CPU                   | 1                               |
 +-----------------------+---------------------------------+
@@ -71,16 +63,6 @@ Network
 -------
 
 Out of the box, the network in configured for NAT
-
-*Beta 2*
-
-+-----------------+---------------+
-| Networking Mode | NAT           |
-+-----------------+---------------+
-| IP              | 10.0.3.15     |
-+-----------------+---------------+
-
-*Beta 3*
 
 +-----------------+---------------+
 | Networking Mode | NAT           |
@@ -143,17 +125,6 @@ User
 
 The user under which the setup is done on, you can also use these credentials to login via the command-line or via the command-line login prompt from VirtualBox.
 
-*Beta 2*
-
-+------------+-----------------+
-| username   | plone_user      |
-+------------+-----------------+
-| password   | 123456plonedemo |
-+------------+-----------------+
-| sudo       | yes             |
-+------------+-----------------+
-
-*Beta 3*
 
 +------------+-----------------+
 | username   | ploneuser       |
@@ -185,16 +156,6 @@ Login via the VirtualBox server/command-line prompt:
 
 Plone
 -----
-
-*Beta 2*
-
-+--------------+-----------------------------------+
-| Version      | 5.0b2                             |
-+--------------+-----------------------------------+
-| Install path | /home/plone_user/Plone/zinstance  |
-+--------------+-----------------------------------+
-
-*Beta 3*
 
 +--------------+-----------------------------------+
 | Version      | 5.0b3                             |

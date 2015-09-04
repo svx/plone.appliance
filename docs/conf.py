@@ -32,7 +32,8 @@ import shlex
 extensions = [
     'sphinx.ext.todo',
     'sphinxcontrib.gist',
-    'sphinxcontrib.images'
+    'sphinxcontrib.spelling',
+    'sphinxcontrib.images',
 ]
 
 
@@ -47,6 +48,10 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 # source_suffix = ['.rst', '.md']
 source_suffix = '.rst'
+
+# This is our wordlist with know words, like Github or Plone ...
+spelling_word_list_filename = 'spelling_wordlist.txt'
+spelling_ignore_pypi_package_names=True
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
