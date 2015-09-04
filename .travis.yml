@@ -1,4 +1,10 @@
 language: python
+
+# Install dependencies
+before_install:
+    - sudo apt-get update -qq
+    - sudo apt-get install -qq enchant
+
 python:
   - "2.7"
 # command to install dependencies
