@@ -2,12 +2,12 @@
 Setup
 ======
 
+Requirements
+=============
 
+Please make sure that you have :term:`VirtualBox` installed on your computer.
 
-Please make sure that you have `Virtualbox <https://www.virtualbox.org>`_ installed.
-
-
-If you do not have `Virtualbox <https://www.virtualbox.org>`_ installed, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for your Operating System.
+In case you do not have it installed yet, please `download <https://www.virtualbox.org/wiki/Downloads>`_ VirtualBox for your Operating System.
 
 Getting the Appliance
 ======================
@@ -16,6 +16,8 @@ Browse to `dist.plone.org/vm <http://dist.tiramisu.solutions/virtualbox/>`_ and 
 
 Importing the Appliance
 =======================
+
+Depending on your Operating System, please follow one of the manuals bellow. If you want to knew more about certain versions, please see :ref:`os-reference-label`
 
 :doc:`Importing into Virtualbox on Ubuntu <ubuntu>`
 
@@ -29,11 +31,6 @@ Importing the Appliance
    ubuntu
    osx
    windows
-
-placeholder
-
-:ref:`os-reference-label`
-
 
 Starting the Appliance
 ======================

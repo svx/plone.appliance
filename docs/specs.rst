@@ -18,7 +18,6 @@ Supported Operating Systems
 
 
 
-and there we go :term:`Plone` bla bla bla
 
 This Appliance is tested on following Operating Systems:
 
@@ -27,7 +26,7 @@ This Appliance is tested on following Operating Systems:
 +---------------+----------------------+
 | Mac OS X      | Yosemite             |
 +---------------+----------------------+
-| Windows       | 8                    |
+| Windows       | 8, 10                |
 +---------------+----------------------+
 | Debian        | 8                    |
 +---------------+----------------------+
@@ -76,8 +75,7 @@ For preventing possible interference with your network, the appliance is using N
 This means the appliance is only reachable from the host machine, meaning the machine where you using VirtualBox on.
 
 .. image:: _static/virtualbox_nat.png
-   :width: 697px
-   :height: 392px
+   :alt: bla
    :align: center
 
 
@@ -92,8 +90,7 @@ The appliance is build in the way,that you can now browse to the $IPOFTHEVM and 
 
 
 .. image:: _static/virtualbox_dhcp.png
-   :width: 697px
-   :height: 392px
+   :alt: bla
    :align: center
 
 Ports
@@ -113,8 +110,7 @@ Port 8080 of your Host is forwarded to port 8080 of the appliance.
 Port 2222 of your Host is forwarded to port 22 of the appliance
 
 .. image:: _static/virtualbox_port_fw.png
-   :width: 697px
-   :height: 392px
+   :alt: some text
    :align: center
 
 
