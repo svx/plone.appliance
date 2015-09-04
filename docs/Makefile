@@ -200,9 +200,9 @@ upload:
 preview: clean html upload
 
 spellcheck:
-	LANGUAGE=$* $(SPHINXBUILD) -b spelling -j 4 $(ALLSPHINXOPTS) build/spellcheck/$*
+	LANGUAGE=$* $(SPHINXBUILD) -b spelling -j 4 $(ALLSPHINXOPTS) _build/spellcheck/$*
 	@echo
 	@echo "Spellcheck is finished; look for any errors in the above output " \
-		" or in build/spell/output.txt."
+		" or in _build/spellcheck/output.txt."
 
 check: spellcheck linkcheck
