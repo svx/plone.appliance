@@ -33,7 +33,6 @@ extensions = [
     'sphinx.ext.todo',
     'sphinxcontrib.gist',
     'sphinxcontrib.spelling',
-    'sphinxcontrib.images',
 ]
 
 

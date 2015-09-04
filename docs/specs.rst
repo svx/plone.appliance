@@ -75,7 +75,7 @@ For preventing possible interference with your network, the appliance is using N
 
 This means the appliance is only reachable from the host machine, meaning the machine where you using VirtualBox on.
 
-.. thumbnail:: _static/virtualbox_nat.png
+.. image:: _static/virtualbox_nat.png
    :width: 697px
    :height: 392px
    :align: center
@@ -91,7 +91,7 @@ Open virtualbox -> settings -> change to dhcp -> start vm again.
 The appliance is build in the way,that you can now browse to the $IPOFTHEVM and see your plone setup.
 
 
-.. thumbnail:: _static/virtualbox_dhcp.png
+.. image:: _static/virtualbox_dhcp.png
    :width: 697px
    :height: 392px
    :align: center
@@ -112,7 +112,7 @@ Port 8080 of your Host is forwarded to port 8080 of the appliance.
 
 Port 2222 of your Host is forwarded to port 22 of the appliance
 
-.. thumbnail:: _static/virtualbox_port_fw.png
+.. image:: _static/virtualbox_port_fw.png
    :width: 697px
    :height: 392px
    :align: center
@@ -147,7 +147,7 @@ Login via command-line to the appliance on the default NAT:
 
 Login via the VirtualBox server/command-line prompt:
 
-.. thumbnail:: _static/vbox_login_cmd.png
+.. image:: _static/vbox_login_cmd.png
    :width: 697px
    :height: 392px
    :align: center

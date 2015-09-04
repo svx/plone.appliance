@@ -1,5 +1,4 @@
 sphinx
-sphinxcontrib-images
 sphinxcontrib.gist
 sphinxcontrib-spelling
 pyenchant
