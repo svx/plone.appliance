@@ -4,38 +4,35 @@ Glossary
 .. glossary:: :sorted:
 
     Plone
-      A structure where information about all documents under the root is
-      saved, and used for cross-referencing.  The environment is pickled
-      after the parsing stage, so that successive runs only need to read
-      and parse new and changed `Virtualbox <https://www.virtualbox.org>`_.
+      `Plone <https://plone.org.org>`_ is a powerful, flexible Content Management Solution that is easy to install, use and extend.
 
     Debian
-      All about Debian
+      `Debian <https://www.debian.org>`_ is a free operating system (OS) for your computer. An operating system is the set of basic programs and utilities that make your computer run.
 
     VirtualBox
-      All about Virtualbox
+      `Virtualbox <https://www.virtualbox.org>`_ is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
     Vagrant
-      All about Vagrant
+      `Vagrant <https://www.vagrantup.com/>`_ is a tool for building complete development environments.
 
     GitHub
-      All about GitHub
+      `GitHub <https://github.com/>`_ is powerful collaboration, code review, and code management for open source and private projects.
 
-    OSX
-      All about OSX
+    OS X
+      `OS X, Apple Inc.'s <https://www.apple.com/>`_ desktop and server operating system for Macintosh computers.
 
     Windows
-      All about Windows
+      `Windows, Microsoft's <https://www.microsoft.com/>`_ desktop operating system.
 
     NAT
-      All about NAT
+      `Network Address Translation (NAT) <https://en.wikipedia.org/wiki/Network_address_translation/>`_ is the process where a network device, usually a firewall, assigns a public address to a computer (or group of computers) inside a private network.
 
     DHCP
-      All about dhcp
+      `DHCP (Dynamic Host Configuration Protocol) <https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol/>`_ is a communications protocol that network administrators use to centrally manage and automate the network configuration of devices attaching to an Internet Protocol (IP) network.
 
     Ports
-      All about Ports
+      In computer networking, a `port <https://en.wikipedia.org/wiki/Port_%28computer_networking%29?>`_ serves as an endpoint in an operating system for many types of communication. It is not a hardware device, but a logical construct that identifies a service or process.
 
     Command-line
-      All about command-line
+      A `command-line interface <https://en.wikipedia.org/wiki/Command-line_interface?>`_ or command language interpreter (CLI), also known as command-line user interface, console user interface, and character user interface (CUI), is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines).
 
