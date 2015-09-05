@@ -9,7 +9,7 @@ Once downloaded, double-click on the installer which will guide you through the 
 Import Appliance
 ----------------
 
-Lets import the image, click on ``File -> Import Appliance``
+To import the image, click on ``File -> Import Appliance``
 
 .. image:: ../_static/import_appliance-win1.png
    :alt: Importing Appliance Picture 1
