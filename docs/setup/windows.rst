@@ -9,23 +9,60 @@ Once downloaded, double-click on the installer which will guide you through the 
 Import Appliance
 ----------------
 
-To import the image, click on ``File -> Import Appliance``
-
 .. image:: ../_static/import_appliance-win1.png
    :alt: Importing Appliance Picture 1
    :align: center
 
-Click ``Open appliance`` and navigate to the already downloaded and image
+To import the appliance, click on ``File -> Import Appliance``
 
 .. image:: ../_static/plone-appliance-win_import2.png
    :alt: Importing Appliance Picture 2
    :align: center
 
+Navigate to the already downloaded and appliance
 
 .. image:: ../_static/plone-appliance-win-import3.png
    :alt: Importing Appliance Picture 3
    :align: center
 
+Choose appliance and click ``Open``
+
 .. image:: ../_static/plone-appliance-win-import4.png
    :alt: Importing Appliance Picture 4
    :align: center
+
+Click ``Next``
+
+.. image:: ../_static/plone-appliance-win-import5.png
+   :alt: Importing Appliance Picture 5
+   :align: center
+
+Click ``Import``
+
+.. image:: ../_static/plone-appliance-win-import6.png
+   :alt: Importing Appliance Picture 4
+   :align: center
+
+Wait till import is finished
+
+.. image:: ../_static/plone.appliance-import-win8.png
+   :alt: Importing Appliance Picture 4
+   :align: center
+
+Choose image on the left by clicking on it, click on ``Start``
+
+.. image:: ../_static/plone-appliance-import-win9.png
+   :alt: Importing Appliance Picture 4
+   :align: center
+
+.. image:: ../_static/plone-appliance-import-win10.png
+   :alt: Importing Appliance Picture 4
+   :align: center
+
+Wait till you see the login prompt
+
+.. image:: ../_static/plone-appliance-import-win-fine.png
+   :alt: Importing Appliance Picture 4
+   :align: center
+
+Now open your browser and browse to http://localhost:8080 and you can start using :term:`Plone`
