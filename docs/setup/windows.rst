@@ -61,8 +61,8 @@ Choose image on the left by clicking on it, click on ``Start``
 
 Wait till you see the login prompt
 
-.. image:: ../_static/plone-appliance-import-win-fine.png
+.. image:: ../_static/plone-appliance-import-win-final.png
    :alt: Importing Appliance Picture 4
    :align: center
 
-Now open your browser and browse to http://localhost:8080 and you can start using :term:`Plone`
+Now open your browser and browse to http://localhost:8080/Plone and you can start using :term:`Plone`
