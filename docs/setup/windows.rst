@@ -61,6 +61,9 @@ Choose image on the left by clicking on it, click on ``Start``
 
 Wait till you see the login prompt
 
+Starting Appliance
+------------------
+
 .. image:: ../_static/plone-appliance-import-win-final.png
    :alt: Importing Appliance Picture 4
    :align: center
