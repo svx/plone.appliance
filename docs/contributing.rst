@@ -50,9 +50,9 @@ Building
 	$ cd plone.appliance/docs
 	$ make install
 
-Browsing
---------
+Reading
+-------
 
-Point your browser to file:///$YOURPATH/plone.appliance/docs/_build/html/index.html#
+To read the docs, build locally on your computer, point your browser to file:///$YOURPATH/plone.appliance/docs/_build/html/index.html#
 
 .. note:: Replace *YOURPATH* with your local path, for example */home/jandoe/*
